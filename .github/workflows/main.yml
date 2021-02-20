@@ -1,4 +1,4 @@
-name: start ChaCon
+name: start ChangeControl
 on:
 #for test
   issue_comment:
