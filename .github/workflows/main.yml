@@ -10,7 +10,7 @@ env:
   workFold: '/opt/'
   webFold: 'docs/'
   prjFold: 'out/'   
-  repoName: 'ChaCon'  
+  repoName: 'ChangeControl'  
 jobs:
   build:
     runs-on: ubuntu-latest
